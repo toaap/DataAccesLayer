@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 
 namespace ProgramKonstruktion.DAL
 {
+    
+    //lol
     class DataAccessLayer
     {
         private ProgramKonstruktionEntities con = new ProgramKonstruktionEntities();
